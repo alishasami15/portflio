@@ -6,6 +6,7 @@ import AboutPage from './about/page';
 import SkillsPage from './skills/page';
 import ProjectsPage from './projects/page';
 import ContactPage from './contact/page';
+import Link from 'next/link';
 
 export default function Home() {
   useEffect(() => {
@@ -118,12 +119,18 @@ export default function Home() {
             I’m a dedicated Web Developer specializing in building fast, responsive, and modern websites. I turn ideas into reality using clean code and creative design.
           </p>
 
-          <a
+          {/* <a
             href="#projects"
             className="inline-block mt-4 px-6 py-3 bg-blue-700 hover:bg-blue-800 rounded text-white font-medium transition animate-fade-in delay-1000"
           >
             View My Work
-          </a>
+          </a> */}
+        <Link
+         href="https://ss-outfit-collection.vercel.app/"
+         className="inline-block mt-4 px-6 py-3 bg-blue-700 hover:bg-blue-800 rounded text-white font-medium transition animate-fade-in delay-1000"
+          >
+         View My Work
+        </Link>
         </div>
 
         {/* Right: Profile Image */}
