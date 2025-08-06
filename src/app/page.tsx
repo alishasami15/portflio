@@ -90,7 +90,7 @@ export default function Home() {
                 Hello,
               </span>{' '}
               <span className="bg-gradient-to-r from-white to-blue-600 bg-clip-text text-transparent animate-fade-in delay-200">
-                I'm
+                Im
               </span>{' '}
               <span className="bg-gradient-to-r from-white to-blue-600 bg-clip-text text-transparent animate-fade-in delay-400">
                 Alisha

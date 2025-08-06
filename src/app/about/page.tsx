@@ -92,7 +92,7 @@ export default function AboutPage() {
             and feel smooth on every device.
           </p>
           <p className="text-lg mb-4">
-            I'm a passionate web developer who loves turning ideas into
+            I m a passionate web developer who loves turning ideas into
             beautiful, responsive websites. With a strong grip on technologies
             like 
             <span className="text-blue-600 font-semibold"> HTML, CSS, JavaScript, React js, Next.js, and Tailwind CSS </span> I

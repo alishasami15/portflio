@@ -54,7 +54,7 @@ export default function ContactPage() {
         </h2>
 
         <p className="text-center text-gray-300 mb-8">
-          We'd love to hear from you! Fill out the form below and we’ll get back to you soon.
+          We love to hear from you! Fill out the form below and we’ll get back to you soon.
         </p>
 
         <form className="bg-gray-800 p-8 rounded-xl shadow-md space-y-6">

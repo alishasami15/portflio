@@ -197,7 +197,7 @@ export default function SkillsPage() {
             <div className="flex items-center gap-4">
           <button
             onClick={handlePrev}
-            className="w-12 h-12 text-2xl font-bold rounded-full bg-white shadow-lg hover:bg-gray-100 transition"
+            className="w-12 h-2 text-4xl font-bold "
            >
             &lt;
           </button>
@@ -235,7 +235,7 @@ export default function SkillsPage() {
 
           <button
             onClick={handleNext}
-            className="w-12 h-12 text-2xl font-bold rounded-full bg-white shadow-lg hover:bg-gray-100 transition"
+            className="w-12 h-2 text-4xl font-bold "
           >
             &gt;
           </button>
