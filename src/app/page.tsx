@@ -119,12 +119,6 @@ export default function Home() {
             I’m a dedicated Web Developer specializing in building fast, responsive, and modern websites. I turn ideas into reality using clean code and creative design.
           </p>
 
-          {/* <a
-            href="#projects"
-            className="inline-block mt-4 px-6 py-3 bg-blue-700 hover:bg-blue-800 rounded text-white font-medium transition animate-fade-in delay-1000"
-          >
-            View My Work
-          </a> */}
         <Link
          href="https://ss-outfit-collection.vercel.app/"
          className="inline-block mt-4 px-6 py-3 bg-blue-700 hover:bg-blue-800 rounded text-white font-medium transition animate-fade-in delay-1000"
