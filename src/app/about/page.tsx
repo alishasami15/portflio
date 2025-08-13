@@ -79,7 +79,7 @@ export default function AboutPage() {
          <div className="bg-gray-800 text-white rounded-xl p-8  shadow-lg md:w-2/4 ">
           <p className="text-lg mb-4">
             👋 Welcome to my  profile! {" "}
-            <span className="text-blue-600 font-semibold">  I'm Alisha sami,</span>  I’m a Professional Website Design & Frontend Developer with
+            <span className="text-blue-600 font-semibold">  I m Alisha sami,</span>  I m a Professional Website Design & Frontend Developer with
             <span className="text-blue-600 font-semibold">  5+ years of experience 
             </span>  helping startups and businesses build modern, responsive, and lightning-fast websites.
           </p>
