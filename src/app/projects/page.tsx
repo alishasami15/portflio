@@ -7,30 +7,29 @@ const projects = [
     title: "E-Commerce Website",
     image: "/p1.png",
     description: "E-Commerce Website using Next.js & Tailwind.",
-    url: "https://shop-thvoqvgs8-alishasamis-projects.vercel.app",
+    url: "https://shop-co-tan-zeta.vercel.app/",
   },
   {
     id: "3",
     title: "Beauty Products Website",
     image: "/p3.png",
     description: "A personal portfolio using Next.js HTML css..",
-    url: "https://html-css-6mun989ao-alishasamis-projects.vercel.app",
+    url: "https://responsive-html-nu.vercel.app/",
   },
   {
     id: "4",
     title: "Reasum Builder",
     image: "/p4.png",
     description: "Real-time messaging using WebSockets.",
-    url: "https://hackathons-mileston-1-2-adqvoqadb-alishasamis-projects.vercel.app",
+    url: "https://pana-cloud-css-project.vercel.app/",
   },
   {
     id: "5",
     title: "Task Manager",
     image: "/p5.png",
     description: "To-do app with deadline reminders.",
-    url: "https://pana-cloud-css-project-qjilsgegm-alishasamis-projects.vercel.app",
+    url: "https://hackathons-mileston-3.vercel.app/",
   },
-
 ];
 
 export default function ProjectsPage() {

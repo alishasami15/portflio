@@ -76,35 +76,25 @@ export default function AboutPage() {
 
 
         {/* Right: About Content */}
-        <div className="bg-gray-800 text-white rounded-xl p-8  shadow-lg md:w-2/4 ">
+         <div className="bg-gray-800 text-white rounded-xl p-8  shadow-lg md:w-2/4 ">
           <p className="text-lg mb-4">
-            Hi, I’m{" "}
-            <span className="text-blue-600 font-semibold">Alisha Sami</span> — a web
-            developer passionate about turning ideas into clean, interactive,
-            and scalable web experiences.
+            👋 Welcome to my  profile! {" "}
+            <span className="text-blue-600 font-semibold">  I'm Alisha sami,</span>  I’m a Professional Website Design & Frontend Developer with
+            <span className="text-blue-600 font-semibold">  5+ years of experience 
+            </span>  helping startups and businesses build modern, responsive, and lightning-fast websites.
           </p>
           <p className="text-lg mb-4">
-            I specialize in{" "}
-            <span className="text-blue-600 font-semibold">
-              HTML, Next.js, and Tailwind CSS
-            </span>
-            . My focus is building high-performance frontends that look great
-            and feel smooth on every device.
-          </p>
-          <p className="text-lg mb-4">
-            I m a passionate web developer who loves turning ideas into
-            beautiful, responsive websites. With a strong grip on technologies
-            like 
-            <span className="text-blue-600 font-semibold"> HTML, CSS, JavaScript, React js, Next.js, and Tailwind CSS </span> I
-            enjoy building user-friendly digital experiences.
+          I offer website customization,
+            <span className="text-blue-600 font-semibold"> Frontend development, E-Commerce stores, Landing pages </span>  and complete website designs all tailored to your needs.
           </p>
           {/* New paragraph added below */}
           <p className="text-lg">
-            My goal is to keep learning, experimenting, and delivering projects
-            that truly help people and solve real problems. I believe in
-            writing clean, readable code and always striving for better user
-            experience.
-          </p>
+            Get a clean, user-friendly, and high-performing website that converts visitors into customers. </p>
+            <p>
+              <span className="text-blue-600 font-semibold"> 💬 Message me today  place your order to get started. </span>
+            </p>
+            
+         
         </div>
       </div>
     </section>
